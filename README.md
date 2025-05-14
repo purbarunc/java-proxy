@@ -6,7 +6,7 @@ This repository demonstrates simple ways of how we can create java proxies using
 https://github.com/cglib/cglib<br/> 
 We need to add the below JVM Argument to make this work for JDK 17+<br/> 
 ```--add-opens java.base/java.lang=ALL-UNNAMED```<br/> 
-Note: CGLibs recommends to use Bytebuddy and is not maintained anymore as given in the above link.<br/> 
+Note: CGLib recommends to use Bytebuddy and is not maintained anymore as given in the above link.<br/> 
 
 **ByteBuddy**<br/>
 https://bytebuddy.net/#/<br/>
